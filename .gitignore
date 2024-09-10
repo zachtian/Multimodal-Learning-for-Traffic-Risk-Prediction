@@ -1,0 +1,9 @@
+clipped_images
+cache
+output.html
+geckodriver.log
+data/
+train_data/
+test_data/
+results/
+lightning_logs/
